@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": ", USA TODAY",
+            "title": "Selection Sunday live updates: Arizona, Gonzaga, Kansas, Baylor are men's No. 1 seeds as March Madness brackets revealed - USA TODAY",
+            "description": "The NCAA Division I men’s and women’s basketball tournament brackets have been revealed. Which teams were seeded too high? Too low? Who was snubbed?",
+            "url": "https://www.usatoday.com/story/sports/ncaab/tourney/2022/03/13/ncaa-bracket-live-updates-march-madness/7026555001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/03/13/USAT/6e6a7897-54e1-41d4-945a-3d1fc9206df5-USP_NCAA_Basketball__PAC-12_Conference_Championshi.jpg?auto=webp&crop=4574,2573,x0,y82&format=pjpg&width=1200",
+            "publishedAt": "2022-03-14T00:24:50Z",
+            "content": "The march to a title begins now, with the announcement of the matchups in the 2022 NCAA men's basketball tournament. The top seeds in each region are Gonzaga (West), Arizona (South), Kansas (Midwest)… [+10194 chars]"
+        },
+        {
+            "source": {
+                "id": "nfl-news",
+                "name": "NFL News"
+            },
+            "author": null,
+            "title": "Kirk Cousins signing one-year, $35M extension with Vikings thru 2023 - NFL.com",
+            "description": "The Minnesota Vikings are signing Kirk Cousins to a one-year, $35 million fully guaranteed extension that puts him under contract 2023, NFL Network's Tom Pelissero reported.",
+            "url": "https://www.nfl.com/news/kirk-cousins-signing-one-year-35m-extension-with-vikings-thru-2023",
+            "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/tattp8amfam1muwndmwi",
+            "publishedAt": "2022-03-14T00:15:05Z",
+            "content": "Kirk Cousins is staying put in Minnesota through at least 2023.\r\nThe Vikings are signing Cousins to a one-year, $35 million fully guaranteed extension that puts him under contract through 2023, NFL N… [+1230 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hollywood Reporter"
+            },
+            "author": "Kimberly Nordyke",
+            "title": "Critics Choice Awards: Winners List (Updating Live) - Hollywood Reporter",
+            "description": "The Critics Choice Awards are being handed out Sunday. The Critics Choice Association will hand out awards in categories encompassing film and television. Taye Diggs and Nicole Byer are hosting the ceremony, airing live The CW and TBS in both Los Angeles and …",
+            "url": "https://www.hollywoodreporter.com/movies/movie-news/critics-choice-awards-winners-list-full-1235110430/",
+            "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/03/Critics-Choice-Award-Statue-NEW-Publicity-H-2022.jpg?w=1024",
+            "publishedAt": "2022-03-14T00:11:15Z",
+            "content": "The Critics Choice Awards are being handed out Sunday.\r\nThe Critics Choice Association will hand out awards in categories encompassing film and television. Taye Diggs and Nicole Byer are hosting the … [+10670 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Peter Beaumont, Martin Pengelly",
+            "title": "US film-maker Brent Renaud reportedly killed by Russian forces in Ukraine - The Guardian",
+            "description": "Award-winning journalist and a colleague, who survived, were fired on near checkpoint in Irpin",
+            "url": "https://amp.theguardian.com/world/2022/mar/13/brent-renaud-us-film-maker-killed-by-russian-forces-ukraine",
+            "urlToImage": "https://i.guim.co.uk/img/media/a192b5078695a124248d39ef89e7d272e684a4d8/1120_333_1216_730/master/1216.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a31162da1850163e251b6bc881ae126a",
+            "publishedAt": "2022-03-14T00:10:00Z",
+            "content": "Brent Renaud, an award-winning US film-maker whose work has appeared in the New York Times and other outlets, has been killed reportedly by Russian forces in the flashpoint town of Irpin, outside Kyi… [+3248 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Jenna Laine",
+            "title": "Tom Brady says he's returning as Tampa Bay Buccaneers QB next season - ESPN",
+            "description": "Tom Brady said he is returning as the quarterback of the Buccaneers just six weeks after announcing his retirement.",
+            "url": "https://www.espn.com/nfl/story/_/id/33495804/tom-brady-says-returning-tampa-bay-buccaneers-qb-next-season",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0201%2Fr968534_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-03-14T00:07:10Z",
+            "content": "TAMPA, Fla. -- Tom Brady's retirement lasted 40 days.\r\nBrady said Sunday he is returning to the Tampa Bay Buccaneers for his 23rd season in the NFL. The seven-time Super Bowl champion announced his d… [+2328 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Marc Santora, Jack Nicas, Eric Schmitt",
+            "title": "Ukraine-Russia War News: Live Updates - The New York Times",
+            "description": "At least 35 were killed and more than 100 were injured after missiles hit a base used to train foreign fighters. An American journalist was killed while reporting in a Kyiv suburb. Russia asked China for military and economic aid for the war, U.S. officials s…",
+            "url": "https://www.nytimes.com/live/2022/03/13/world/ukraine-russia-war",
+            "urlToImage": "https://static01.nyt.com/images/2022/03/13/world/13ukraine-blog-promo-730pm/merlin_203768535_15cf596b-48b0-4dee-9de6-1b61c338cc16-facebookJumbo.jpg",
+            "publishedAt": "2022-03-13T23:08:29Z",
+            "content": "WASHINGTON The United States accurately predicted the start of the war in Ukraine, sounding the alarm that an invasion was imminent despite Moscows denials and Europes skepticism. Predicting how it m… [+12710 chars]"
+        },
+        {
+            "source": {
+                "id": "the-hill",
+                "name": "The Hill"
+            },
+            "author": "Olafimihan Oshin",
+            "title": "Kevin Durant rips NYC mayor over 'ridiculous' vaccine mandate - The Hill",
+            "description": "Brooklyn Nets star Kevin Durant calls New York City’s vaccine man...",
+            "url": "https://thehill.com/policy/healthcare/public-global-health/598044-kevin-durant-calls-nyc-vaccine-mandate-ridiculous",
+            "urlToImage": "https://thehill.com/sites/default/files/durantkevin_03172020getty.jpg",
+            "publishedAt": "2022-03-13T22:27:58Z",
+            "content": "Brooklyn Nets star Kevin Durant calls New York Citys vaccine mandate ridiculous and accused Mayor Eric Adams of craving attention as his teammate Kyrie Irving remains unable to play home games. \r\nDur… [+1608 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Tom Warren",
+            "title": "YouTube Vanced is shutting down \"due to legal reasons\" - The Verge",
+            "description": "The popular YouTube Vanced app is being discontinued. The owners of the Vanced project have revealed they’re shutting their app down due to legal reasons.",
+            "url": "https://www.theverge.com/2022/3/13/22975890/youtube-vanced-app-discontinued-shutting-down-legal-reasons",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/3qAUd0m6QNqcFZqSSpbb_GG1Wog=/0x80:1200x708/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23311425/youtubevanced.jpg",
+            "publishedAt": "2022-03-13T22:21:22Z",
+            "content": "Vanced was a popular YouTube app for Android\r\nThe popular Vanced YouTube app is being discontinued. The creators of Vanced have revealed the project will be shut down in the coming days, with downloa… [+1957 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Emily Selleck",
+            "title": "Rebel Wilson flaunts slimmed-down figure in tulle gown on BAFTAs red carpet - Page Six",
+            "description": "The Australian actress made jokes about her significant weight loss journey while hosting the 2022 BAFTAs in London on Sunday.",
+            "url": "https://pagesix.com/2022/03/13/rebel-wilson-shows-off-slimmed-down-figure-at-baftas-2022/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/03/wilson-comp.jpg?quality=90&strip=all&w=1200",
+            "publishedAt": "2022-03-13T22:20:00Z",
+            "content": "Rebel Wilson was the queen of the BAFTAs 2022 red carpet in London on Sunday.\r\nThe Australian actress, 42, looked ethereal in a sparkly Giambattista Valli gown, which featured a blue sequin bodice an… [+1789 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": "Emlyn Travis",
+            "title": "Millie Bobby Brown and Jake Bongiovi Make Their Red Carpet Debut as a Couple - E! NEWS",
+            "description": "Stranger Things star Millie Bobby Brown and her boyfriend Jake Bongiovi made their relationship red carpet official at the 2022 BAFTA Awards. See their matching looks below.",
+            "url": "https://www.eonline.com/news/1322970/millie-bobby-brown-and-jake-bongiovi-make-their-red-carpet-debut-as-a-couple",
+            "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2022213/rs_1200x1200-220313091407-1200-2022-BAFTA-Awards-Millie-Bobby-Brown-Jake-Bongiovi.cm.31322.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+            "publishedAt": "2022-03-13T22:05:00Z",
+            "content": "On a scale of one to 10, we'd give Millie Bobby Brown and Jake Bongiovi's red carpet debut as a couple an Eleven.  \r\nThe Stranger Things star, 18, and her boyfriend, 19, made their relationship red c… [+777 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Brent Lang",
+            "title": "William Hurt, Oscar-Winning Actor for ‘Kiss of the Spider Woman,’ Dies at 71 - Variety",
+            "description": "William Hurt, an acclaimed actor best known for his Oscar-winning performance in 1985’s “Kiss of the Spider Woman” and his work in “The Big Chill” and “Body Heat,” died Sunday of natural causes. He was 71 years old. Hurt’s death was confirmed to Variety by hi…",
+            "url": "https://variety.com/2022/film/news/william-hurt-dead-kiss-of-the-spider-woman-1235203576/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2022/03/william-hurt.jpg?w=1001",
+            "publishedAt": "2022-03-13T21:50:00Z",
+            "content": "William Hurt, who became a top leading man in the 1980s, winning an Oscar for 1985’s “Kiss of the Spider Woman” and starring in “The Big Chill” and “Body Heat,” died Sunday of natural causes. He was … [+6080 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Ellen Nakashima, Karen DeYoung, Cate Cadell",
+            "title": "Russia seeks military equipment and aid from China, U.S. officials say - The Washington Post",
+            "description": "The development comes as White House national security adviser Jake Sullivan plans to travel to Rome on Monday to meet with his Chinese counterpart.",
+            "url": "https://www.washingtonpost.com/national-security/2022/03/13/russia-china-military-aid/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MSMDVYVC3QI6ZBRIHWSPVD4HCQ.jpg&w=1440",
+            "publishedAt": "2022-03-13T21:45:00Z",
+            "content": "The development comes as White House national security adviser Jake Sullivan plans to travel to Rome on Monday to meet with his Chinese counterpart, Yang Jiechi.\r\nWe are communicating directly, priva… [+5092 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "David Meyer",
+            "title": "Pfizer CEO says fourth COVID-19 shot 'necessary' due to waning immunity - New York Post ",
+            "description": "Most people will need to get fourth COVID-19 vaccine dose to be protected from the virus, Pfizer CEO Albert Bourla said on “Face The Nation” on Sunday.",
+            "url": "https://nypost.com/2022/03/13/pfizer-ceo-fourth-covid-shot-necessary-due-to-waning-immunity/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/03/pfizer-covid-04.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2022-03-13T21:39:00Z",
+            "content": "Most people will need to get a fourth COVID-19 vaccine dose to be protected from the virus, the head of Pfizer said on Sunday.\r\n“It is necessary for most” people, CEO Albert Bourla said during an int… [+1230 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Robert Robert",
+            "title": "'Don't expect the Mueller report': Video to play key part in Jan. 6 hearings and report - CBS News",
+            "description": "Rather than relying on a report text, these hearings are expected to use video and multimedia elements, similar to approach used in Trump's second impeachment trial.",
+            "url": "https://www.cbsnews.com/news/january-6-hearings-not-like-mueller-report/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/09/02/f5641c26-a64b-40eb-afcf-407b93e4f623/thumbnail/1200x630/09d3122dcf28d98cbc5c077044316481/gettyimages-1230453313.jpg",
+            "publishedAt": "2022-03-13T20:58:38Z",
+            "content": "For months, the House select committee investigating the January 6 assault on the U.S. Capitol has been busy preparing for its upcoming hearings and finalizing plans for a public report later this ye… [+6542 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Arlette Saenz, CNN",
+            "title": "Former President Barack Obama tests positive for Covid-19 - CNN",
+            "description": "Former President Barack Obama announced Sunday that he has tested positive for Covid-19. \"I've had a scratchy throat for a couple days, but am feeling fine otherwise,\" he said on his official Twitter account. Obama also said that his wife, former first lady M…",
+            "url": "https://www.cnn.com/2022/03/13/politics/barack-obama-covid-positive/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220313144757-barack-obama-coronavirus-super-tease.jpg",
+            "publishedAt": "2022-03-13T20:11:32Z",
+            "content": "I just tested positive for COVID. I've had a scratchy throat for a couple days, but am feeling fine otherwise. Michelle and I are grateful to be vaccinated and boosted, and she has tested negative. \r… [+126 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Best Life"
+            },
+            "author": "Lauren Gray",
+            "title": "Not Flossing Before Bed May Hurt Your Heart — Best Life - Best Life",
+            "description": "Failing to brush and floss and night has been linked to poor heart health and other chronic conditions. Here's what you need to know.",
+            "url": "http://bestlifeonline.com/heart-health-flossing-news/",
+            "urlToImage": "https://bestlifeonline.com/wp-content/uploads/sites/3/2022/03/Woman-going-to-sleep.jpg?quality=82&strip=all",
+            "publishedAt": "2022-03-13T20:06:26Z",
+            "content": "As the leading cause of death in both men and women, there's no shortage of ways that heart disease can take its tollfrom heart attacks to stroke. So, when it comes to living your healthiest life, ke… [+4708 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ukraine president calls on software giants to stop supporting their products in Russia - Reuters.com",
+            "description": "Ukrainian President Volodymyr Zelenskiy on Sunday called on U.S. software firms Microsoft Corp <a href=\"https://www.reuters.com/companies/MSFT.O\" target=\"_blank\">(MSFT.O)</a> and Oracle Corp <a href=\"https://www.reuters.com/companies/ORCL.N\" target=\"_blank\">(…",
+            "url": "https://www.reuters.com/technology/ukraine-president-calls-software-giants-stop-supporting-their-products-russia-2022-03-13/",
+            "urlToImage": "https://www.reuters.com/resizer/auU-eGYlMXaI82GhWXiVQXOg6iA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/C3KTSLO2ZRNVLMJPKCCNHB4N44.jpg",
+            "publishedAt": "2022-03-13T18:37:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "QASSIM ABDUL-ZAHRA Associated Press",
+            "title": "Iran claims missile barrage near US consulate in Iraq - ABC News",
+            "description": "",
+            "url": "https://abcnews.go.com/International/wireStory/missiles-target-us-consulate-north-iraq-casualties-83412862",
+            "urlToImage": "https://s.abcnews.com/images/International/WireAP_7f091be70b5c4d70b906dc5cd4920821_16x9_992.jpg",
+            "publishedAt": "2022-03-13T18:33:45Z",
+            "content": "BAGHDAD -- Iran claimed responsibility Sunday for a missile barrage that struck near a sprawling U.S. consulate complex in northern Iraq, saying it was retaliation for an Israeli strike in Syria that… [+6091 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Ukraine says power has been restored to Chernobyl power station - Reuters.com",
+            "description": "Ukraine's atomic energy ministry on Sunday said power had been restored to the Chernobyl nuclear power plant, which meant cooling systems would operate normally and not have to use backup power.",
+            "url": "https://www.reuters.com/world/europe/ukraine-says-power-has-been-restored-chernobyl-power-station-2022-03-13/",
+            "urlToImage": "https://www.reuters.com/resizer/9IBEtNf4buXJkngKKgPRIel7SpU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ANCUXQLVF5K3DIDRSQLJ657HJM.jpg",
+            "publishedAt": "2022-03-13T18:21:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Daily News"
+            },
+            "author": "Nicholas Williams, JOHN ANNESE",
+            "title": "NYPD releases shocking video of MOMA stabbing, names suspect - New York Daily News",
+            "description": "Gary Cabana, 60, was enraged that his membership to the iconic Midtown museum had been canceled when he rushed through the W. 53rd St. movie theater entrance and jumped over the counter, police said.",
+            "url": "https://www.nydailynews.com/new-york/nyc-crime/ny-moma-museum-of-modern-art-stabbing-suspect-video-20220313-sw3ehlilprcfbc5xjrlao5cx4e-story.html",
+            "urlToImage": "https://www.nydailynews.com/resizer/lorS4j8nb72WabUic8_QAdUMEcg=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BHBWSN7WF5EAHBWNUHSOBSTRU4.jpg",
+            "publishedAt": "2022-03-13T17:09:00Z",
+            "content": "The NYPD on Sunday identified the crazed suspect still on the loose after stabbing two workers at the Museum of Modern Art Saturday and released shocking video of the bloodshed.\r\nGary Cabana, 60, was… [+2289 chars]"
+        }
+    ]
+}
