@@ -78,5 +78,44 @@ main {
   text-decoration: none;
 }
 
+/* .ham-bug-menu {
+  display: none;
+}
+
+.ham-bug-menu {
+  border: 1px solid #333;
+  width: 40px;
+  height: 40px;
+  border-radius: 5px;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  transform: translate(-50%, -50%);
+}
+
+.ham-bug-menu span {
+  width: 70%;
+  height: 5px;
+  margin: 2px;
+  border-radius: 3px;
+  background-color: #333;
+} */
+
 /* Responsive */
-@media(max-width:957px) {}
+
+/* @media(max-width:850px) {
+  .ham-bug-menu {
+    display: flex;
+
+  }
+
+  nav {
+    justify-content: space-between;
+  }
+
+  nav .menu ul {
+    display: none;
+  }
+} */

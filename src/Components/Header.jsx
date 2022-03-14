@@ -1,12 +1,14 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import PropTypes from 'prop-types';
 
-export default function Header() {
+
+export default function Header(props) {
     return (
         <>
             <nav>
                 <div className="logo">
-                    <Link to="/"><h1>NS News</h1></Link>
+                    <Link to="/"><h1>{props.title}</h1></Link>
                 </div>
                 <div className="menu">
                     <ul>
@@ -20,4 +22,7 @@ export default function Header() {
             </nav>
         </>
     )
+}
+Header.defaultProps = {
+    title: 'Hello'
 }

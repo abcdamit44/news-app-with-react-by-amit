@@ -15,7 +15,7 @@ function App() {
   return (
     <div className="App">
       <Router>
-        <Header />
+        <Header title="NS News" />
         <Routes>
           <Route path="/" element={<Main />} />
           <Route path="/world" element={<World />} />
