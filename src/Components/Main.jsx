@@ -23,6 +23,7 @@ export default function Main() {
                 </>
             );
         })
+        console.log(news[0])
         setValue(news)
 
     }
