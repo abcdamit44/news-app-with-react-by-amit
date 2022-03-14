@@ -12,7 +12,7 @@ export default function Main() {
         //     }
 
         // })
-        let response = await fetch("https://newsapi.org/v2/top-headlines?country=in&apiKey=5102124e3da246c9a8d06bd7ffffeb54");
+        let response = await fetch("https://cors-anywhere.herokuapp.com/https://newsapi.org/v2/top-headlines?country=in&apiKey=5102124e3da246c9a8d06bd7ffffeb54");
 
         let data = await response.json();
 
