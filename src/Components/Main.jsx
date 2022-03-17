@@ -12,14 +12,18 @@ export default function Main() {
         //     }
 
         // })
-        let response = await fetch("https://newsapi.org/v2/top-headlines?country=in&apiKey=5102124e3da246c9a8d06bd7ffffeb54");
+
+        // let response = await fetch("https://newsapi.org/v2/top-headlines?country=in&apiKey=5102124e3da246c9a8d06bd7ffffeb54");
+
+        let response = await fetch("https://newsdata.io/api/1/news?apikey=pub_55409789662be32e466dfe650398e6105270&country=in&language=en&category=politics");
 
         let data = await response.json();
+        // console.log(data.results)
 
-        let news = data.articles.map((a, i) => {
+        let news = data.results.map((a, i) => {
             return (
                 <>
-                    <Card title={a.title} desc={a.description} key={i} urlToImage={a.urlToImage} url={a.url} />
+                    <Card title={a.title} desc={a.description} key={i} urlToImage={a.image_url} url={a.link} />
                 </>
             );
         })
