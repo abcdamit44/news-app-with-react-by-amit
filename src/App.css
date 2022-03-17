@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -9,12 +13,24 @@ nav {
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  box-shadow: 0 .125rem .75rem rgba(0, 0, 0, .075);
+  box-shadow: 0 .125rem 1.75rem rgba(0, 0, 0, .075);
+  position: sticky;
+  top: 0;
+  z-index: 6;
+  background-color: #fff;
 }
 
 nav .logo a {
   text-decoration: none;
   color: #000;
+  font-family: 'Dancing Script', cursive;
+
+}
+
+nav .logo a h1 {
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 nav .menu ul {
@@ -34,10 +50,17 @@ nav .menu ul li a {
   font-size: 1rem;
   font-weight: 500;
   text-transform: uppercase;
+  font-family: 'Monoton', cursive;
 }
 
 main {
   padding: 1.5rem 3rem;
+}
+
+main h1 {
+  font-family: 'Aclonica', sans-serif;
+  font-weight: 100;
+  color: #8898;
 }
 
 .news-section {
@@ -66,6 +89,10 @@ main {
 
 }
 
+.card h4 {
+  color: rgba(0, 0, 0, .5);
+}
+
 .card .card-body p {
   margin-top: 0.5rem;
   font-size: 0.95rem;
@@ -78,44 +105,41 @@ main {
   text-decoration: none;
 }
 
-/* .ham-bug-menu {
+.mobMenu {
   display: none;
 }
 
-.ham-bug-menu {
-  border: 1px solid #333;
-  width: 40px;
-  height: 40px;
-  border-radius: 5px;
-  position: absolute;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  transform: translate(-50%, -50%);
-}
-
-.ham-bug-menu span {
-  width: 70%;
-  height: 5px;
-  margin: 2px;
-  border-radius: 3px;
-  background-color: #333;
-} */
-
 /* Responsive */
 
-/* @media(max-width:850px) {
-  .ham-bug-menu {
-    display: flex;
-
-  }
-
+@media(max-width:950px) {
   nav {
     justify-content: space-between;
   }
 
-  nav .menu ul {
-    display: none;
+  .menu {
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, 0);
+    background: #fff;
+    width: 95%;
+    box-shadow: 0 1.1525rem 1.75rem rgba(0, 0, 0, .075);
+    padding: 0.5rem;
   }
-} */
+
+  .hide {
+    display: none !important;
+  }
+
+  .show {
+    display: block !important;
+  }
+
+  nav .menu ul {
+    display: block;
+  }
+
+  .mobMenu {
+    display: block;
+  }
+}
