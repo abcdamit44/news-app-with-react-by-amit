@@ -15,15 +15,19 @@ export default function Main() {
 
         // let response = await fetch("https://newsapi.org/v2/top-headlines?country=in&apiKey=5102124e3da246c9a8d06bd7ffffeb54");
 
-        let response = await fetch("https://newsdata.io/api/1/news?apikey=pub_55409789662be32e466dfe650398e6105270&country=in&language=en&category=politics");
+        let response = await fetch("https://api.newscatcherapi.com/v2/latest_headlines?countries=IN&lang=en&topic=politics", {
+            headers: {
+                'x-api-key': 'bxnwiWww3uVsmDB7MwBoTXihAohKFlo1_8I_vwzp104'
+            }
+        });
 
         let data = await response.json();
-        // console.log(data.results)
+        console.log(data)
 
-        let news = data.results.map((a, i) => {
+        let news = data.articles.map((a, i) => {
             return (
                 <>
-                    <Card title={a.title} desc={a.description} key={i} urlToImage={a.image_url} url={a.link} />
+                    <Card title={a.title} desc={a.excerpt} key={i} urlToImage={a.media} url={a.link} />
                 </>
             );
         })

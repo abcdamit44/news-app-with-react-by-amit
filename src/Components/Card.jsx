@@ -9,7 +9,7 @@ export default function Card({ title, desc, urlToImage, url }) {
 
                 </div>
                 <div className="card-body">
-                    <h6>{title}</h6>
+                    <h4>{title}</h4>
                     <p>{desc}</p>
                     <a href={url}>Read More</a>
                 </div>
