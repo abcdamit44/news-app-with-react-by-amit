@@ -6,22 +6,18 @@ export default function India() {
     const [value, setValue] = useState("");
     async function getNews() {
 
-        let response = await fetch("https://newsapi.org/v2/everything?q=world&apiKey=5102124e3da246c9a8d06bd7ffffeb54");
-
-        // let response = await fetch(`./api.json`, {
-        //     headers: {
-        //         'Content-Type': 'application/json',
-        //         'Accept': 'application/json'
-        //     }
-
-        // })
+        let response = await fetch("https://api.newscatcherapi.com/v2/latest_headlines?countries=IN&lang=en&topic=world", {
+            headers: {
+                'x-api-key': 'bxnwiWww3uVsmDB7MwBoTXihAohKFlo1_8I_vwzp104'
+            }
+        });
 
         let data = await response.json();
 
         let news = data.articles.map((a, i) => {
             return (
                 <>
-                    <Card title={a.title} desc={a.description} key={i} urlToImage={a.urlToImage} url={a.url} />
+                    <Card title={a.title} desc={a.excerpt} key={i} urlToImage={a.media} url={a.link} />
                 </>
             );
         })
