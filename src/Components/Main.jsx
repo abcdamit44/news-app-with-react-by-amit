@@ -22,16 +22,16 @@ export default function Main() {
         });
 
         let data = await response.json();
-        console.log(data)
+        // console.log(data)
 
         let news = data.articles.map((a, i) => {
             return (
                 <>
-                    <Card title={a.title} desc={a.excerpt} key={i} urlToImage={a.media} url={a.link} />
+                    <Card title={a.title} desc={a.excerpt} key={a.rank} urlToImage={a.media} url={a.link} />
                 </>
             );
         })
-        console.log(news[0])
+        // console.log(news[0])
         setValue(news)
 
     }

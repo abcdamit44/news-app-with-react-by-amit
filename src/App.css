@@ -24,8 +24,9 @@ nav .logo a {
   text-decoration: none;
   color: #000;
   font-family: 'Dancing Script', cursive;
-
 }
+
+
 
 nav .logo a h1 {
   background: -webkit-linear-gradient(#eee, #333);
@@ -51,6 +52,22 @@ nav .menu ul li a {
   font-weight: 500;
   text-transform: uppercase;
   font-family: 'Monoton', cursive;
+  position: relative;
+}
+
+nav .menu ul li a::before {
+  content: "";
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  width: 0%;
+  height: 5px;
+  background-color: rgb(161, 156, 156);
+  transition: 300ms ease-in-out;
+}
+
+nav .menu ul li a:hover::before {
+  width: 100%;
 }
 
 main {
@@ -142,4 +159,9 @@ main h1 {
   .mobMenu {
     display: block;
   }
+
+  nav .menu ul li a:hover::before {
+    width: 0%;
+  }
+
 }

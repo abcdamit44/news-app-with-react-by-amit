@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import PropTypes from 'prop-types';
+// import PropTypes from 'prop-types';
 import { FaAlignJustify } from 'react-icons/fa'
 
 
@@ -21,7 +21,7 @@ export default function Header(props) {
                         <li><Link to="/entertainment">Entertainment</Link></li>
                     </ul>
                 </div>
-                <span className="mobMenu" onClick={() => setResMenu(!resMenu)}>
+                <span className="mobMenu" onClick={() => { setResMenu(!resMenu) }}>
                     <FaAlignJustify />
                 </span>
             </nav>
