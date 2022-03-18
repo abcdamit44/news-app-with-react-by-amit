@@ -28,7 +28,7 @@ nav .logo a {
 
 
 nav .logo a h1 {
-  background: -webkit-linear-gradient(#eee, #333);
+  background: -webkit-linear-gradient(rgb(255, 0, 179), rgb(4, 71, 255));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -46,7 +46,7 @@ nav .menu ul li {
 
 nav .menu ul li a {
   text-decoration: none;
-  color: #333;
+  color: rgb(255, 0, 179);
   font-size: 1rem;
   font-weight: 600;
   text-transform: uppercase;
@@ -60,8 +60,8 @@ nav .menu ul li a::before {
   bottom: -5px;
   left: 0;
   width: 0%;
-  height: 5px;
-  background-color: rgb(161, 156, 156);
+  height: 3px;
+  background-color: rgb(4, 71, 255);
   transition: 300ms ease-in-out;
 }
 
@@ -76,7 +76,7 @@ main {
 main h1 {
   font-family: 'Aclonica', sans-serif;
   font-weight: 100;
-  color: #8898;
+  color: rgb(4, 71, 255);
 }
 
 .news-section {
