@@ -17,12 +17,12 @@ export default function Main() {
 
         let response = await fetch("https://api.newscatcherapi.com/v2/latest_headlines?countries=IN&lang=en&topic=politics", {
             headers: {
-                'x-api-key': 'bxnwiWww3uVsmDB7MwBoTXihAohKFlo1_8I_vwzp104'
+                'x-api-key': 'jXHWFLU_PAhvmwvDqgiMWHiTooXg51Ch4Im0KTi579U'
             }
         });
 
         let data = await response.json();
-        // console.log(data)
+        console.log(data)
 
         let news = data.articles.map((a, i) => {
             return (

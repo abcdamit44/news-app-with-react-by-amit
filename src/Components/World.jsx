@@ -8,7 +8,7 @@ export default function India() {
 
         let response = await fetch("https://api.newscatcherapi.com/v2/latest_headlines?countries=IN&lang=en&topic=world", {
             headers: {
-                'x-api-key': 'bxnwiWww3uVsmDB7MwBoTXihAohKFlo1_8I_vwzp104'
+                'x-api-key': 'jXHWFLU_PAhvmwvDqgiMWHiTooXg51Ch4Im0KTi579U'
             }
         });
 
