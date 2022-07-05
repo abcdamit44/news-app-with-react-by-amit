@@ -69,6 +69,11 @@ nav .menu ul li a:hover::before {
   width: 100%;
 }
 
+.active {
+  color: royalblue !important;
+  font-weight: 800 !important;
+}
+
 main {
   padding: 1.5rem 3rem;
 }
@@ -124,6 +129,8 @@ main h1 {
 .mobMenu {
   display: none;
 }
+
+
 
 /* Responsive */
 

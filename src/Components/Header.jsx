@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
+import { NavLink } from 'react-router-dom';
 // import PropTypes from 'prop-types';
 import { FaAlignJustify } from 'react-icons/fa'
 
@@ -10,15 +10,15 @@ export default function Header(props) {
         <>
             <nav>
                 <div className="logo">
-                    <Link to="/"><h1>{props.title}</h1></Link>
+                    <NavLink to="/"><h1>{props.title}</h1></NavLink>
                 </div>
                 <div className={resMenu ? "menu show" : "menu hide"}>
                     <ul>
-                        <li><Link to="/">Latest</Link></li>
-                        <li><Link to="/world">World</Link></li>
-                        <li><Link to="/business">Business</Link></li>
-                        <li><Link to="/sports">Sports</Link></li>
-                        <li><Link to="/entertainment">Entertainment</Link></li>
+                        <li><NavLink to="/">Latest</NavLink></li>
+                        <li><NavLink to="/world">World</NavLink></li>
+                        <li><NavLink to="/business">Business</NavLink></li>
+                        <li><NavLink to="/sports">Sports</NavLink></li>
+                        <li><NavLink to="/entertainment">Entertainment</NavLink></li>
                     </ul>
                 </div>
                 <span className="mobMenu" onClick={() => { setResMenu(!resMenu) }}>

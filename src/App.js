@@ -17,7 +17,7 @@ function App() {
       <Router>
         <Header title="NS News By Amit" />
         <Routes>
-          <Route path="/" element={<Main />} />
+          <Route exact path="/" element={<Main />} />
           <Route path="/world" element={<World />} />
           <Route path="/business" element={<Business />} />
           <Route path="/entertainment" element={<Entertainment />} />
